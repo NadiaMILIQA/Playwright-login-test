@@ -1,5 +1,5 @@
 {
-  "name": "login-test",
+  "name": "Playwright-login-test",
   "version": "1.0.0",
   "description": "Test de login sur plusieurs navigateurs",
   "scripts": {
