@@ -15,5 +15,5 @@ export default defineConfig({
       use: { ...devices['Desktop Safari'] }
     }
   ],
-  testDir: 'tests',
+  testDir: 'tests', 
 });
