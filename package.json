@@ -1,0 +1,11 @@
+{
+  "name": "login-test",
+  "version": "1.0.0",
+  "description": "Test de login sur plusieurs navigateurs",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.43.0"
+  }
+}
